@@ -1,0 +1,13 @@
+.container{
+    color: rgb(0, 255, 149);
+    width: 200px;
+    height: 120px;
+    background-color: cadetblue;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+button{
+    background-color: rgb(17, 80, 116);
+    color: aliceblue;
+}
